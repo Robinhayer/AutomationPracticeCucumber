@@ -1,0 +1,118 @@
+13:35:02.155 [main] INFO  stepDefinitions.Steps - User Enters Name
+13:35:03.240 [main] INFO  stepDefinitions.Steps - User Enters Password
+13:35:05.350 [main] INFO  stepDefinitions.Steps - User Enters First Name
+13:35:06.537 [main] INFO  stepDefinitions.Steps - User Enters Last Name
+13:35:07.657 [main] INFO  stepDefinitions.Steps - User Enters Company
+13:35:08.799 [main] INFO  stepDefinitions.Steps - User Enters Address
+13:39:27.867 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+13:39:31.717 [main] INFO  stepDefinitions.Steps - User enter Email
+13:39:31.778 [main] INFO  stepDefinitions.Steps - User enters Name
+13:39:34.905 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+13:39:34.906 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+13:39:35.174 [main] INFO  stepDefinitions.Steps - User Enters Title
+13:39:35.306 [main] INFO  stepDefinitions.Steps - User Enters Name
+13:39:36.390 [main] INFO  stepDefinitions.Steps - User Enters Password
+13:39:37.392 [main] INFO  stepDefinitions.Steps - User Enters Date
+13:39:38.625 [main] INFO  stepDefinitions.Steps - User Enters Month
+13:47:12.708 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+13:47:16.579 [main] INFO  stepDefinitions.Steps - User enter Email
+13:47:16.639 [main] INFO  stepDefinitions.Steps - User enters Name
+13:47:20.172 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+13:47:20.173 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+13:47:20.396 [main] INFO  stepDefinitions.Steps - User Enters Title
+13:47:20.484 [main] INFO  stepDefinitions.Steps - User Enters Name
+13:47:21.566 [main] INFO  stepDefinitions.Steps - User Enters Password
+15:07:45.459 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:07:49.311 [main] INFO  stepDefinitions.Steps - User enter Email
+15:07:49.372 [main] INFO  stepDefinitions.Steps - User enters Name
+15:07:51.543 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:07:51.543 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:08:48.020 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:08:51.848 [main] INFO  stepDefinitions.Steps - User enter Email
+15:08:51.911 [main] INFO  stepDefinitions.Steps - User enters Name
+15:08:54.820 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:08:54.821 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:10:57.341 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:11:01.172 [main] INFO  stepDefinitions.Steps - User enter Email
+15:11:01.239 [main] INFO  stepDefinitions.Steps - User enters Name
+15:11:04.052 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:11:04.053 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:24:02.359 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:24:06.213 [main] INFO  stepDefinitions.Steps - User enter Email
+15:24:06.274 [main] INFO  stepDefinitions.Steps - User enters Name
+15:24:09.497 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:24:09.498 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:24:09.696 [main] INFO  stepDefinitions.Steps - User Enters Title
+15:24:09.884 [main] INFO  stepDefinitions.Steps - User Enters Name
+15:24:10.039 [main] INFO  stepDefinitions.Steps - User Enters Password
+15:25:51.906 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:25:55.755 [main] INFO  stepDefinitions.Steps - User enter Email
+15:25:55.816 [main] INFO  stepDefinitions.Steps - User enters Name
+15:25:57.676 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:25:57.677 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:25:57.953 [main] INFO  stepDefinitions.Steps - User Enters Title
+15:25:58.140 [main] INFO  stepDefinitions.Steps - User Enters Name
+15:25:58.371 [main] INFO  stepDefinitions.Steps - User Enters Password
+15:27:24.263 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:27:28.159 [main] INFO  stepDefinitions.Steps - User enter Email
+15:27:28.224 [main] INFO  stepDefinitions.Steps - User enters Name
+15:27:31.382 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:27:31.383 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:27:31.590 [main] INFO  stepDefinitions.Steps - User Enters Title
+15:27:31.764 [main] INFO  stepDefinitions.Steps - User Enters Name
+15:27:31.911 [main] INFO  stepDefinitions.Steps - User Enters Password
+15:29:09.393 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:29:13.225 [main] INFO  stepDefinitions.Steps - User enter Email
+15:29:13.286 [main] INFO  stepDefinitions.Steps - User enters Name
+15:29:15.321 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:29:15.322 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:29:15.570 [main] INFO  stepDefinitions.Steps - User Enters Title
+15:29:15.715 [main] INFO  stepDefinitions.Steps - User Enters Name
+15:29:15.867 [main] INFO  stepDefinitions.Steps - User Enters Password
+15:29:51.748 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+15:29:55.619 [main] INFO  stepDefinitions.Steps - User enter Email
+15:29:55.680 [main] INFO  stepDefinitions.Steps - User enters Name
+15:29:58.467 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+15:29:58.468 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+15:29:58.734 [main] INFO  stepDefinitions.Steps - User Enters Title
+15:29:59.000 [main] INFO  stepDefinitions.Steps - User Enters Name
+15:29:59.244 [main] INFO  stepDefinitions.Steps - User Enters Password
+16:01:04.464 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+16:01:08.296 [main] INFO  stepDefinitions.Steps - User enter Email
+16:01:08.359 [main] INFO  stepDefinitions.Steps - User enters Name
+16:01:10.546 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+16:01:10.547 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+16:01:15.520 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+16:01:18.696 [main] INFO  stepDefinitions.Steps - User enter Email
+16:01:18.756 [main] INFO  stepDefinitions.Steps - User enters Name
+16:01:20.389 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+16:01:20.389 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+16:01:27.473 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+16:01:30.641 [main] INFO  stepDefinitions.Steps - User enter Email
+16:01:30.698 [main] INFO  stepDefinitions.Steps - User enters Name
+16:01:32.095 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+16:01:32.095 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+16:02:34.302 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+16:02:38.183 [main] INFO  stepDefinitions.Steps - User enter Email
+16:02:38.251 [main] INFO  stepDefinitions.Steps - User enters Name
+16:02:40.127 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+16:02:40.128 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+16:02:40.411 [main] INFO  stepDefinitions.Steps - User Enters Title
+16:02:40.508 [main] INFO  stepDefinitions.Steps - User Enters Name
+16:02:41.615 [main] INFO  stepDefinitions.Steps - User Enters Password
+16:02:56.427 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+16:02:59.601 [main] INFO  stepDefinitions.Steps - User enter Email
+16:02:59.664 [main] INFO  stepDefinitions.Steps - User enters Name
+16:03:02.388 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+16:03:02.390 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+16:03:02.548 [main] INFO  stepDefinitions.Steps - User Enters Title
+16:03:02.621 [main] INFO  stepDefinitions.Steps - User Enters Name
+16:03:03.713 [main] INFO  stepDefinitions.Steps - User Enters Password
+16:03:19.549 [main] INFO  stepDefinitions.Steps - User Clicked on Login/Signup Page
+16:03:22.698 [main] INFO  stepDefinitions.Steps - User enter Email
+16:03:22.766 [main] INFO  stepDefinitions.Steps - User enters Name
+16:03:25.921 [main] INFO  stepDefinitions.Steps - User Clicks on Signup
+16:03:25.922 [main] INFO  stepDefinitions.Steps - User Navigates to Signup Page
+16:03:26.054 [main] INFO  stepDefinitions.Steps - User Enters Title
+16:03:26.225 [main] INFO  stepDefinitions.Steps - User Enters Name
+16:03:27.298 [main] INFO  stepDefinitions.Steps - User Enters Password
